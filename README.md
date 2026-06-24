@@ -1,4 +1,4 @@
-# 📊 Sales Analytics End-to-End Project | ApexPlanet Internship
+# 📊 Sales Analytics  Project | ApexPlanet Internship
 
 ## 📌 Project Overview
 
